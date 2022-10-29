@@ -1,0 +1,6 @@
+[submodule "ApiKeyLibreria"]
+	path = ApiKeyLibreria
+	url = https://github.com/patricioarena/ApiKeyLibreria.git
+[submodule "ApiKeyServicio"]
+	path = ApiKeyServicio
+	url = https://github.com/patricioarena/ApiKeyServicio.git
