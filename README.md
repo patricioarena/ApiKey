@@ -1,0 +1,1 @@
+Sistema de autenticación mediante clientId y secretKey. El proyecto se divide en dos partes por un lado una api rest para gestionar las clientes, keys y aplicaciones (AMB). Y por otro una librería la cual permite agregar la autenticación en los endpoint seleccionados mediante un atributo.
